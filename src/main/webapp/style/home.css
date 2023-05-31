@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+body{
+            margin-top: 40px;
+            text-align: center;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            align-items: center;
+            background-color:lightblue
+        }
+        #wlc{
+            color:brown;
+        }
+        #bx{
+            border: 3px dotted white;
+            width: 25%;
+            align-items: center;
+            padding: 25px;
+            margin: auto;
+            margin-top: 50px;
+            border-radius: 10px;
+        }
+        #vw{
+            color: green;
+            font-size: x-large;
+            text-decoration: underline;
+        }
+        #add{
+            border: 1px solid;
+            width: 25%;
+            margin: auto;
+            margin-top: 30px;
+            border-radius: 20px;
+            background-color:lavender;
+            color: purple;
+        }
+        #nv{
+            margin-top: 100px;
+            display: flex;
+            justify-content: space-around;
+            font-size: larger;
+            color: darkblue;
+        }
+        #wlc{
+            font-size: xx-large;
+        }
+        #dlt{
+            color: red;
+        }
+        #foot{
+            border: 3px solid;
+            width: 10%;
+            margin: auto;
+            margin-top: 50px;
+            background-color: navy;
+            color: white;
+        }

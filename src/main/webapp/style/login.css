@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+body
+{
+    margin: 10%;
+    background-color: aquamarine;
+    text-align: center;
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn
+{
+    color:blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+#btn:hover
+{
+    color:white;
+    border: 1px solid white;
+    background-color: gray;
+}
+a
+{
+    color: darkblue;
+}
+a:hover
+{
+    font-style: italic;
+}
+input
+{
+    border: 1px solid navy;
+    border-radius: 5px;
+}
+h1
+{
+    color: brown;
+}
+div
+{
+    border-radius: 10px;
+    padding: 30px;
+    background-color:cornsilk
+}

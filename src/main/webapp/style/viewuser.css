@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body{
+			background-color:bisque;
+			font-family:cursive;
+			text-align: center;
+			padding: 50px;
+		}
+		h1{
+			color: brown;
+		}
+		div{
+			color: chocolate;
+			border: 4px dashed brown;
+			border-radius: 10px;
+			padding: 10px;
+		}

@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+body{
+			background-color: navy;
+			color:white;
+			text-align: center;
+			margin-top: 100px;
+			font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+		}
+		input{
+			background-color:azure;
+			border-radius: 30px;
+		}
+		form{
+			background-color: steelblue;
+			padding: 30px;
+			border-radius: 10px;
+		}
+		#btn{
+			font-size: large;
+			background-color:dimgrey;
+			color:whitesmoke;
+			padding: 10px;
+		}
